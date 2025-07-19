@@ -114,8 +114,8 @@
 		)
 		(symbol "STM32G473CCT3_1_1"
 			(rectangle
-				(start -25.4 24.765)
-				(end 24.13 -24.765)
+				(start -25.4 22.86)
+				(end 24.13 -24.13)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -341,7 +341,7 @@
 				)
 			)
 			(pin passive line
-				(at -13.97 29.845 270)
+				(at -13.97 27.94 270)
 				(length 5.08)
 				(name "VDD_3"
 					(effects
@@ -359,7 +359,7 @@
 				)
 			)
 			(pin passive line
-				(at -13.97 -29.845 90)
+				(at -13.97 -29.21 90)
 				(length 5.08)
 				(name "PA5"
 					(effects
@@ -377,7 +377,7 @@
 				)
 			)
 			(pin passive line
-				(at -11.43 29.845 270)
+				(at -11.43 27.94 270)
 				(length 5.08)
 				(name "VSS_3"
 					(effects
@@ -395,7 +395,7 @@
 				)
 			)
 			(pin passive line
-				(at -11.43 -29.845 90)
+				(at -11.43 -29.21 90)
 				(length 5.08)
 				(name "PA6"
 					(effects
@@ -413,7 +413,7 @@
 				)
 			)
 			(pin passive line
-				(at -8.89 29.845 270)
+				(at -8.89 27.94 270)
 				(length 5.08)
 				(name "PB9"
 					(effects
@@ -431,7 +431,7 @@
 				)
 			)
 			(pin passive line
-				(at -8.89 -29.845 90)
+				(at -8.89 -29.21 90)
 				(length 5.08)
 				(name "PA7"
 					(effects
@@ -449,7 +449,7 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 29.845 270)
+				(at -6.35 27.94 270)
 				(length 5.08)
 				(name "PB8-BOOT0"
 					(effects
@@ -467,7 +467,7 @@
 				)
 			)
 			(pin passive line
-				(at -6.35 -29.845 90)
+				(at -6.35 -29.21 90)
 				(length 5.08)
 				(name "PB0"
 					(effects
@@ -485,7 +485,7 @@
 				)
 			)
 			(pin passive line
-				(at -3.81 29.845 270)
+				(at -3.81 27.94 270)
 				(length 5.08)
 				(name "PB7"
 					(effects
@@ -503,7 +503,7 @@
 				)
 			)
 			(pin passive line
-				(at -3.81 -29.845 90)
+				(at -3.81 -29.21 90)
 				(length 5.08)
 				(name "PB1"
 					(effects
@@ -521,7 +521,7 @@
 				)
 			)
 			(pin passive line
-				(at -1.27 29.845 270)
+				(at -1.27 27.94 270)
 				(length 5.08)
 				(name "PB6"
 					(effects
@@ -539,7 +539,7 @@
 				)
 			)
 			(pin passive line
-				(at -1.27 -29.845 90)
+				(at -1.27 -29.21 90)
 				(length 5.08)
 				(name "PB2"
 					(effects
@@ -557,7 +557,7 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 29.845 270)
+				(at 1.27 27.94 270)
 				(length 5.08)
 				(name "PB5"
 					(effects
@@ -575,7 +575,7 @@
 				)
 			)
 			(pin passive line
-				(at 1.27 -29.845 90)
+				(at 1.27 -29.21 90)
 				(length 5.08)
 				(name "VSSA"
 					(effects
@@ -593,7 +593,7 @@
 				)
 			)
 			(pin passive line
-				(at 3.81 29.845 270)
+				(at 3.81 27.94 270)
 				(length 5.08)
 				(name "PB4"
 					(effects
@@ -611,7 +611,7 @@
 				)
 			)
 			(pin passive line
-				(at 3.81 -29.845 90)
+				(at 3.81 -29.21 90)
 				(length 5.08)
 				(name "VREF+"
 					(effects
@@ -629,7 +629,7 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 29.845 270)
+				(at 6.35 27.94 270)
 				(length 5.08)
 				(name "PB3"
 					(effects
@@ -647,7 +647,7 @@
 				)
 			)
 			(pin passive line
-				(at 6.35 -29.845 90)
+				(at 6.35 -29.21 90)
 				(length 5.08)
 				(name "VDDA"
 					(effects
@@ -665,7 +665,7 @@
 				)
 			)
 			(pin passive line
-				(at 8.89 29.845 270)
+				(at 8.89 27.94 270)
 				(length 5.08)
 				(name "PA15"
 					(effects
@@ -683,7 +683,7 @@
 				)
 			)
 			(pin passive line
-				(at 8.89 -29.845 90)
+				(at 8.89 -29.21 90)
 				(length 5.08)
 				(name "PB10"
 					(effects
@@ -701,7 +701,7 @@
 				)
 			)
 			(pin passive line
-				(at 11.43 29.845 270)
+				(at 11.43 27.94 270)
 				(length 5.08)
 				(name "PA14"
 					(effects
@@ -719,7 +719,7 @@
 				)
 			)
 			(pin passive line
-				(at 11.43 -29.845 90)
+				(at 11.43 -29.21 90)
 				(length 5.08)
 				(name "VSS_1"
 					(effects
@@ -737,7 +737,7 @@
 				)
 			)
 			(pin passive line
-				(at 13.97 29.845 270)
+				(at 13.97 27.94 270)
 				(length 5.08)
 				(name "PA13"
 					(effects
@@ -755,7 +755,7 @@
 				)
 			)
 			(pin passive line
-				(at 13.97 -29.845 90)
+				(at 13.97 -29.21 90)
 				(length 5.08)
 				(name "VDD_1"
 					(effects

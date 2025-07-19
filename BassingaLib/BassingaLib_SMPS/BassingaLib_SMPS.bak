@@ -106,7 +106,7 @@
 		(symbol "AP63200WU-7_1_1"
 			(rectangle
 				(start -5.08 8.89)
-				(end 8.89 -8.89)
+				(end 8.89 -12.7)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -152,7 +152,7 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -6.35 0)
+				(at -10.16 -10.16 0)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -206,7 +206,7 @@
 				)
 			)
 			(pin passive line
-				(at 13.97 -6.35 180)
+				(at 13.97 -10.16 180)
 				(length 5.08)
 				(name "FB"
 					(effects

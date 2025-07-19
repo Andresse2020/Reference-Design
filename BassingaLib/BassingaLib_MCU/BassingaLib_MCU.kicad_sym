@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "QFP50P900X900X160-48N"
+		(property "Footprint" "BassingaLib_MCU:QFP50P900X900X160-48N"
 			(at -14.732 -53.34 0)
 			(effects
 				(font

@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOT95P280X145-6N"
+		(property "Footprint" "BassingaLib_Sensors:SOT95P280X145-6N"
 			(at 21.59 -94.92 0)
 			(effects
 				(font
