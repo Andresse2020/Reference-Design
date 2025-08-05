@@ -5,10 +5,10 @@
 	(symbol "Power"
 		(power)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
+		(in_bom yes)
+		(on_board yes)
 		(property "Reference" "#PWR"
-			(at 0 3.556 0)
+			(at -0.254 4.064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17,7 +17,7 @@
 			)
 		)
 		(property "Value" "Power"
-			(at -0.254 1.778 0)
+			(at 0 1.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51,10 +51,19 @@
 				(hide yes)
 			)
 		)
+		(property "ki_keywords" "global power"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "Power_0_1"
 			(polyline
 				(pts
-					(xy 1.27 0) (xy -1.27 0)
+					(xy -1.27 0) (xy 1.27 0)
 				)
 				(stroke
 					(width 0)
@@ -66,7 +75,7 @@
 			)
 		)
 		(symbol "Power_1_1"
-			(pin power_out line
+			(pin power_in line
 				(at 0 -1.27 90)
 				(length 1.27)
 				(name ""

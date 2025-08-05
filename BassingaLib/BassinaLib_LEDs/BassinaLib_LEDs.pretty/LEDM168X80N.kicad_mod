@@ -198,15 +198,15 @@
 		(uuid "d0a38592-6752-40fd-9321-b519f536d4ae")
 	)
 	(embedded_fonts no)
-	(model "APHD1608LQBC_D.stp"
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_LEDs/3D/APHD1608LQBC_D.stp"
 		(offset
-			(xyz -237.1199916 -110.0299971 0.1800000044)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -0 -0)
 		)
 	)
 )

@@ -239,15 +239,15 @@
 		(uuid "9183efce-b979-44ec-a945-d01bea80bb9e")
 	)
 	(embedded_fonts no)
-	(model "DS04-254-2-01BK-SMT.stp"
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_Switch/3D/DS04-254-2-01BK-SMT.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz -1.5 9 1)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 90)
 		)
 	)
 )

@@ -241,7 +241,7 @@
 		(uuid "98c3fcc7-4442-4906-b1ce-f441cfa4c39c")
 	)
 	(embedded_fonts no)
-	(model "INA181A1IDBVR.stp"
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Sensors/3D/INA181A1IDBVR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

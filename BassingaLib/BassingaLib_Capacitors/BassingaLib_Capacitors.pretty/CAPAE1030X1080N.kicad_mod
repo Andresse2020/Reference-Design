@@ -197,15 +197,15 @@
 		(uuid "2c0beaf2-db7b-45e3-a626-4293b82227a6")
 	)
 	(embedded_fonts no)
-	(model "GXC1V221MCQ1GS.stp"
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Capacitors/3D/GXC1V221MCQ1GS.stp"
 		(offset
-			(xyz 0 0 0.7999999999)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 -90)
+			(xyz -0 -0 -90)
 		)
 	)
 )

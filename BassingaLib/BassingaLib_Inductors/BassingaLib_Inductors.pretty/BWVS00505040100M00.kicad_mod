@@ -177,7 +177,7 @@
 		(uuid "c8e3ed86-68c9-4a04-b0c3-c1539ba3f24d")
 	)
 	(embedded_fonts no)
-	(model "BWVS00505040100M00.stp"
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Inductors/3D/BWVS00505040100M00.stp"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -185,7 +185,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 90)
 		)
 	)
 )

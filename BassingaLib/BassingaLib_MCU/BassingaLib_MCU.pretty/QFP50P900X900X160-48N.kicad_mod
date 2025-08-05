@@ -494,7 +494,7 @@
 		(uuid "77a1f011-4d70-417d-b63b-27d180750fe8")
 	)
 	(embedded_fonts no)
-	(model "STM32G473CCT3.stp"
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_MCU/3D/STM32G473CCT3.stp"
 		(offset
 			(xyz 0 0 0)
 		)

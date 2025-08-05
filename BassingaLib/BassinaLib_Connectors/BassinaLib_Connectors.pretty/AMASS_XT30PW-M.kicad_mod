@@ -427,4 +427,15 @@
 		(uuid "09ab78b0-824e-4033-bb29-2295f36b9966")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/XT30PW-M.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
