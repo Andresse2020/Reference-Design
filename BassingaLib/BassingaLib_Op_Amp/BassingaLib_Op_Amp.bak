@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "IC"
-			(at 10.668 7.874 0)
+			(at -0.254 17.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16,7 +16,7 @@
 			)
 		)
 		(property "Value" "LM321LVIDBVR"
-			(at 5.588 5.334 0)
+			(at -5.334 14.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45,7 +45,7 @@
 			)
 		)
 		(property "Description" "1-Channel Industry Standard Low Voltage Operational Amplifier"
-			(at 12.7 -12.954 0)
+			(at 2.794 -16.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -103,10 +103,11 @@
 				(hide yes)
 			)
 		)
-		(symbol "LM321LVIDBVR_1_1"
-			(rectangle
-				(start 5.08 2.54)
-				(end 20.32 -7.62)
+		(symbol "LM321LVIDBVR_0_1"
+			(polyline
+				(pts
+					(xy -3.81 5.08) (xy 6.35 0) (xy -3.81 -5.08) (xy -3.81 5.08)
+				)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -115,13 +116,15 @@
 					(type background)
 				)
 			)
+		)
+		(symbol "LM321LVIDBVR_1_1"
 			(pin passive line
-				(at 0 0 0)
+				(at -8.89 2.54 0)
 				(length 5.08)
 				(name "IN+"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0.635 0.635)
 						)
 					)
 				)
@@ -134,30 +137,12 @@
 				)
 			)
 			(pin passive line
-				(at 0 -2.54 0)
-				(length 5.08)
-				(name "V-"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -5.08 0)
+				(at -8.89 -2.54 0)
 				(length 5.08)
 				(name "IN-"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0.635 0.635)
 						)
 					)
 				)
@@ -170,16 +155,16 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 0 180)
+				(at 1.27 7.62 270)
 				(length 5.08)
-				(name "OUT"
+				(name "V+"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0.635 0.635)
 						)
 					)
 				)
-				(number "4"
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -188,16 +173,34 @@
 				)
 			)
 			(pin passive line
-				(at 25.4 -2.54 180)
+				(at 1.27 -7.62 90)
 				(length 5.08)
-				(name "V+"
+				(name "V-"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "5"
+			)
+			(pin passive line
+				(at 11.43 0 180)
+				(length 5.08)
+				(name "OUT"
+					(effects
+						(font
+							(size 0.635 0.635)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)

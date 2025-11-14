@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "SOT95P280X145-5N"
+		(property "Footprint" "BassingaLib_Op_Amp:SOT95P280X145-5N"
 			(at 21.59 -94.92 0)
 			(effects
 				(font
