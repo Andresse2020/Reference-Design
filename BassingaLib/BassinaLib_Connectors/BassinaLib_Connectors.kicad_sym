@@ -504,14 +504,14 @@
 			(pin passive line
 				(at -7.62 0 0)
 				(length 2.54)
-				(name "2"
+				(name "N"
 					(effects
 						(font
 							(size 1.016 1.016)
 						)
 					)
 				)
-				(number "N"
+				(number "2"
 					(effects
 						(font
 							(size 1.016 1.016)

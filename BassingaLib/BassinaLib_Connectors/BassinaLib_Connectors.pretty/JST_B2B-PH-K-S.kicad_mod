@@ -192,16 +192,7 @@
 		(layer "F.Fab")
 		(uuid "76cbc108-eebb-46e1-8e15-3be193726725")
 	)
-	(pad "N" thru_hole circle
-		(at -1 0.55)
-		(size 1.308 1.308)
-		(drill 0.8)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(solder_mask_margin 0.102)
-		(uuid "f2fbdb8f-5a3f-4348-8634-42bb2e8c29db")
-	)
-	(pad "P" thru_hole rect
+	(pad "1" thru_hole rect
 		(at 1 0.55)
 		(size 1.308 1.308)
 		(drill 0.8)
@@ -209,6 +200,15 @@
 		(remove_unused_layers no)
 		(solder_mask_margin 0.102)
 		(uuid "1471e8ce-35a4-4b7c-90fb-f4bbbfc8c36a")
+	)
+	(pad "2" thru_hole circle
+		(at -1 0.55)
+		(size 1.308 1.308)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f2fbdb8f-5a3f-4348-8634-42bb2e8c29db")
 	)
 	(embedded_fonts no)
 	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/B2B-PH-K-S.step"
