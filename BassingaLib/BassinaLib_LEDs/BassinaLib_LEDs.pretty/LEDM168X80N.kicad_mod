@@ -208,7 +208,7 @@
 		(uuid "d0a38592-6752-40fd-9321-b519f536d4ae")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_LEDs/3D/APHD1608LCGCK.STEP"
+	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_LEDs/3D/APHD1608LCGCK.STEP"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -1649,7 +1649,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Package_SO:PowerPAK_SO-8L_Single"
+		(property "Footprint" "BassingaLib_Mosfets:SQJ402EPT1"
 			(at -10.414 -26.162 0)
 			(effects
 				(font

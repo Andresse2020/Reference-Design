@@ -231,7 +231,7 @@
 		(uuid "06d3ba02-08ef-41f7-85d2-7586fc4b4eac")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_Crystals/3D/ECS-80-10-30B-CWN-TR.stp"
+	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Crystals/3D/ECS-80-10-30B-CWN-TR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -223,7 +223,7 @@
 		(uuid "03fbacb0-d042-42f4-a775-2ce77c4cc612")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_TVS/3D/PESD3V3S2UT,215.stp"
+	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_TVS/3D/PESD3V3S2UT,215.stp"
 		(offset
 			(xyz -2.109999863 -1.330000023 -1.159999949)
 		)

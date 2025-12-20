@@ -252,7 +252,7 @@
 		(uuid "6ee2e03f-0140-4898-bae7-96e358eb8b1d")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/BM05B-SRSS-TB_LF__SN_.step"
+	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/BM05B-SRSS-TB_LF__SN_.step"
 		(offset
 			(xyz 0 0 0)
 		)

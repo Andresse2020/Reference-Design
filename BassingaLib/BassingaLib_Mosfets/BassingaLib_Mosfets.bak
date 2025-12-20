@@ -1215,7 +1215,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "NTMFS5H600NLT1G"
+		(property "Footprint" "BassingaLib_Mosfets:NTMFS5H600NLT1G"
 			(at 21.59 -94.92 0)
 			(effects
 				(font

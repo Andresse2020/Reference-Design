@@ -241,7 +241,7 @@
 		(uuid "f22d3483-9253-478f-9d2b-05ed84d1a3f3")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_SMPS/3D/AP63200WU-7.stp"
+	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_SMPS/3D/AP63200WU-7.stp"
 		(offset
 			(xyz 0 0 0)
 		)

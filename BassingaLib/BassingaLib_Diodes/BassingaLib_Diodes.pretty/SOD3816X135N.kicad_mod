@@ -187,7 +187,7 @@
 		(uuid "06186db8-835c-4b28-be7a-9ffe8d95bb15")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Diodes/3D/SS0540_R1_00001.stp"
+	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Diodes/3D/SS0540_R1_00001.stp"
 		(offset
 			(xyz 0 0 0)
 		)
