@@ -229,7 +229,7 @@
 		(uuid "6024c258-86f8-444e-870b-62451350331e")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/B4B-PH-K-S_LF__SN_.step"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/B4B-PH-K-S_LF__SN_.step"
 		(offset
 			(xyz -2 0 3)
 		)

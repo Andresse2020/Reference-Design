@@ -377,7 +377,7 @@
 		(uuid "3aba7164-e404-46a4-98fc-59abb48394a9")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/MR30PW-FB.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/MR30PW-FB.stp"
 		(offset
 			(xyz -3.499999947 8.109999535 3.529999918)
 		)

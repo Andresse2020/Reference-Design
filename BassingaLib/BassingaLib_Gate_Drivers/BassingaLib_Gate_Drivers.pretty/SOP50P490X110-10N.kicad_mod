@@ -265,7 +265,7 @@
 		(uuid "38c6694b-eeaa-42b5-9c1c-872c85cc0f0f")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Gate_Drivers/3D/LM5060MMX_NOPB.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Gate_Drivers/3D/LM5060MMX_NOPB.stp"
 		(offset
 			(xyz 0 0 0.6899999873)
 		)

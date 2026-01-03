@@ -239,7 +239,7 @@
 		(uuid "9183efce-b979-44ec-a945-d01bea80bb9e")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Switch/3D/DS04-254-2-01BK-SMT.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Switch/3D/DS04-254-2-01BK-SMT.stp"
 		(offset
 			(xyz -1.5 9 1)
 		)

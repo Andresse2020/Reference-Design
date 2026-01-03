@@ -235,7 +235,7 @@
 		(uuid "d059816e-7ac3-4c22-b563-ba6b1517e60b")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Mosfets/3D/SQJA06EP-T1_GE3.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Mosfets/3D/SQJA06EP-T1_GE3.stp"
 		(offset
 			(xyz 0 0 0)
 		)

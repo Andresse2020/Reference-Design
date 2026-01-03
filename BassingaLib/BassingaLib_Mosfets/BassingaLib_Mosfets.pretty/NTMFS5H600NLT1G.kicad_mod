@@ -241,7 +241,7 @@
 		(uuid "bf0831e4-52e9-4b5d-8448-353d59269a2e")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Mosfets/3D/NTMFS5H600NLT1G.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Mosfets/3D/NTMFS5H600NLT1G.stp"
 		(offset
 			(xyz 0 0 0)
 		)

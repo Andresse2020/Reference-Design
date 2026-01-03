@@ -261,7 +261,7 @@
 		(uuid "c31eb33a-e600-4455-bc85-7bede6a39567")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Mosfets/3D/DMP6023LFG-7.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Mosfets/3D/DMP6023LFG-7.stp"
 		(offset
 			(xyz 0 0 0)
 		)

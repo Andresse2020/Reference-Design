@@ -211,7 +211,7 @@
 		(uuid "f2fbdb8f-5a3f-4348-8634-42bb2e8c29db")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/B2B-PH-K-S.step"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/B2B-PH-K-S.step"
 		(offset
 			(xyz 0 0 0)
 		)

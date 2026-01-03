@@ -659,7 +659,7 @@
 		(uuid "dfde90d1-4941-418b-8169-cd423cfbac7d")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/USB4120-03-C.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/USB4120-03-C.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -223,7 +223,7 @@
 		(uuid "b24d1ceb-98e9-4eb7-ad02-fc95c31020a5")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_ESD_Protection/3D/ECMF2-40A100N6.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_ESD_Protection/3D/ECMF2-40A100N6.stp"
 		(offset
 			(xyz 0 0 0)
 		)

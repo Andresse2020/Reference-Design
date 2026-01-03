@@ -223,7 +223,7 @@
 		(uuid "85fcdabc-d6a4-4d35-897f-c82507655d55")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_LDO/3D/TLV76050DBZR.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_LDO/3D/TLV76050DBZR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

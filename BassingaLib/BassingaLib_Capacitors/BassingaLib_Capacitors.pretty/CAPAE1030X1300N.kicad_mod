@@ -197,7 +197,7 @@
 		(uuid "d98a541a-609e-4177-a5c4-53d910d4856e")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Capacitors/3D/GXC1V331MCW1GS.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Capacitors/3D/GXC1V331MCW1GS.stp"
 		(offset
 			(xyz 0 0 0)
 		)

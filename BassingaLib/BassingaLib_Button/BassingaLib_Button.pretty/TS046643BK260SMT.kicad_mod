@@ -272,7 +272,7 @@
 		(uuid "6922fd0c-41b1-4caf-ba95-a03ddab1b89f")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Button/3D/TS04-66-43-BK-260-SMT.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Button/3D/TS04-66-43-BK-260-SMT.stp"
 		(offset
 			(xyz 0 0 0.09999999999)
 		)

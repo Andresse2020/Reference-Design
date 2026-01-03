@@ -223,7 +223,7 @@
 		(uuid "7049294d-3e98-4043-ab11-afa9a9e89911")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Mosfets/3D/CMPDM7002AHC_TR_PBFREE.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Mosfets/3D/CMPDM7002AHC_TR_PBFREE.stp"
 		(offset
 			(xyz 0 0 0)
 		)

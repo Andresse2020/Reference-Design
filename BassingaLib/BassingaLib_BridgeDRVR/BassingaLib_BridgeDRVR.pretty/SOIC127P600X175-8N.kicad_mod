@@ -253,7 +253,7 @@
 		(uuid "0e5b3898-a639-444d-a57e-1fcea53a6603")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_BridgeDRVR/3D/UCC27211DR.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_BridgeDRVR/3D/UCC27211DR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

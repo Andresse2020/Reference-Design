@@ -299,7 +299,7 @@
 		(uuid "0a2628c6-6282-4a63-893c-5912b60aeef7")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Inductors/3D/ASPI-4030S-4R7M-T.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Inductors/3D/ASPI-4030S-4R7M-T.stp"
 		(offset
 			(xyz 0 0 0)
 		)

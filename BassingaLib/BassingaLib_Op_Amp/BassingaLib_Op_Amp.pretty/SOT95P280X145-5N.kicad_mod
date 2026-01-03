@@ -235,7 +235,7 @@
 		(uuid "224110c0-11d3-4a80-8d4d-871ba63aa2a8")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Op_Amp/3D/LM321LVIDBVR.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Op_Amp/3D/LM321LVIDBVR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -347,7 +347,7 @@
 		(uuid "286df719-3386-4a75-b843-1b6fbbfbf4d1")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/USB4216-03-A.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/USB4216-03-A.stp"
 		(offset
 			(xyz 0 -5.289999882 1.629999971)
 		)

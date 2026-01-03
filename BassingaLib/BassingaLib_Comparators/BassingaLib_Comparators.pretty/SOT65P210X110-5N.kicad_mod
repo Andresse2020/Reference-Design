@@ -235,7 +235,7 @@
 		(uuid "ac7ab395-6421-4291-8412-1894fa718ef3")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Comparators/3D/MIC841HYC5-TR.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Comparators/3D/MIC841HYC5-TR.stp"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -187,7 +187,7 @@
 		(uuid "ba874b03-15c5-4d7b-8888-7aa53055d404")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Zener_Diodes/3D/BZX384-A5V1-QX.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Zener_Diodes/3D/BZX384-A5V1-QX.stp"
 		(offset
 			(xyz -0.7900000096 1.359999994 -0.7200000178)
 		)

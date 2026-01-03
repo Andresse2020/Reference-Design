@@ -307,7 +307,7 @@
 		(uuid "579e9e5d-56c0-44cc-bce9-9e07648c63db")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/XT60PW-M.step"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/XT60PW-M.step"
 		(offset
 			(xyz 0 9.5 4.5)
 		)

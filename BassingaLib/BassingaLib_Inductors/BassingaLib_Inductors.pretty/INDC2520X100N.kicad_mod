@@ -167,7 +167,7 @@
 		(uuid "6288149b-d0d8-43c8-a7cd-d2b2f21eed21")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Inductors/3D/SRP3212-3R3M.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Inductors/3D/SRP3212-3R3M.stp"
 		(offset
 			(xyz 0 0 0)
 		)

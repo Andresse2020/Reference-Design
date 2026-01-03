@@ -253,7 +253,7 @@
 		(uuid "f6b34e5e-e44e-4141-a12a-77afb48b34a1")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassinaLib_Com_Interfaces/3D/TCAN3403DDFRQ1.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Com_Interfaces/3D/TCAN3403DDFRQ1.stp"
 		(offset
 			(xyz 0 0 0)
 		)

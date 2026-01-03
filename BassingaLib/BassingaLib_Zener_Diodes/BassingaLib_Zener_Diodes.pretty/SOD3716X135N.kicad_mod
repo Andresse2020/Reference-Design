@@ -187,7 +187,7 @@
 		(uuid "5e5be24e-c425-462b-b078-8c61c0072e6d")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Zener_Diodes/3D/MMSZ12T1G.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Zener_Diodes/3D/MMSZ12T1G.stp"
 		(offset
 			(xyz 0 0 0)
 		)

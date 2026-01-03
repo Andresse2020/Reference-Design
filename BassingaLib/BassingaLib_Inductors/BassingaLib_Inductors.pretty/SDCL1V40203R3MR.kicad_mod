@@ -219,7 +219,7 @@
 		(uuid "0577d63b-3bdb-4bb9-9e66-c56c4bb66b17")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Inductors/3D/SDCL1V4020-3R3M-R.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Inductors/3D/SDCL1V4020-3R3M-R.stp"
 		(offset
 			(xyz 0 0.02999999888 0.01999999925)
 		)

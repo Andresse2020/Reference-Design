@@ -202,7 +202,7 @@
 		(uuid "178037cb-23b5-4014-9c3f-6d387b40b491")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassinaLib_Connectors/3D/S4B-PH-SM4-TB_LF__SN_.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassinaLib_Connectors/3D/S4B-PH-SM4-TB_LF__SN_.stp"
 		(offset
 			(xyz 2.999999955 3.64000005 2.849999862)
 		)

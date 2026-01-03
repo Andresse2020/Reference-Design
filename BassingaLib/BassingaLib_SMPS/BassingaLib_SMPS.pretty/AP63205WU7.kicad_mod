@@ -243,7 +243,7 @@
 		(uuid "f90a78a8-3a21-45e4-82b0-672feaf6291b")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_SMPS/3D/AP63205WU-7.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_SMPS/3D/AP63205WU-7.stp"
 		(offset
 			(xyz 0 0 0)
 		)

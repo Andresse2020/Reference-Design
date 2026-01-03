@@ -259,7 +259,7 @@
 		(uuid "2ea979de-7fa6-4a84-861c-90941e4f2b27")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/andre/OneDrive/Documents/GitHub/Reference-Design/BassingaLib/BassingaLib_Power_Switches/3D/BTH500601LUAAUMA1.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Power_Switches/3D/BTH500601LUAAUMA1.stp"
 		(offset
 			(xyz 0 -0.1500000037 0)
 		)

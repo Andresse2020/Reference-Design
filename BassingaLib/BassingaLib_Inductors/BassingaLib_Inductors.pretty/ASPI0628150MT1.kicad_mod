@@ -219,7 +219,7 @@
 		(uuid "cee8db44-0bfe-4224-9782-c18fa5c26ab3")
 	)
 	(embedded_fonts no)
-	(model "/home/andresse/Documents/My_projects/Reference-Design/BassingaLib/BassingaLib_Inductors/3D/ASPI-0628-3R9M-T1.stp"
+	(model "${KIPRJMOD}/BassingaLib/BassingaLib_Inductors/3D/ASPI-0628-3R9M-T1.stp"
 		(offset
 			(xyz 0 0 0)
 		)
